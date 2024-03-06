@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RareDrops
 - 👀 I’m interested in ... You
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, Java
 - 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me ... Discord: Himari#6182
 
